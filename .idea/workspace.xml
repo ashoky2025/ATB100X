@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4d05405-13c4-4cc7-bfee-ebcac6cb4fb6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lab_002.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="d4d05405-13c4-4cc7-bfee-ebcac6cb4fb6" name="Changes" comment="First Commit">
+      <change afterPath="$PROJECT_DIR$/src/ATBLAB_004.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ATB10X.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ATB10XJava.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab_001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_001.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +46,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ATBLAB_003.executor": "Run",
+    "Application.ATBLAB_004.executor": "Run",
     "Application.Lab_001.executor": "Run",
     "Application.Lab_002.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -57,7 +56,21 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab_002">
+  <component name="RunManager" selected="Application.ATBLAB_004">
+    <configuration name="ATBLAB_003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ATBLAB_003" />
+      <module name="ATB10XJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ATBLAB_004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ATBLAB_004" />
+      <module name="ATB10XJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Lab_001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lab_001" />
       <module name="ATB10XJava" />
@@ -85,6 +98,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ATBLAB_004" />
+        <item itemvalue="Application.ATBLAB_003" />
         <item itemvalue="Application.Lab_002" />
         <item itemvalue="Application.Lab_001" />
       </list>
@@ -99,6 +114,27 @@
       <option name="presentableId" value="Default" />
       <updated>1738413147097</updated>
     </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <option name="closed" value="true" />
+      <created>1738413756993</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738413756993</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First Commit">
+      <option name="closed" value="true" />
+      <created>1738414404501</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1738414404503</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
   </component>
 </project>
