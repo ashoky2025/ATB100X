@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ATB10X.iml" filepath="$PROJECT_DIR$/ATB10X.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ATB10XJava.iml" filepath="$PROJECT_DIR$/ATB10XJava.iml" />
     </modules>
   </component>
 </project>
